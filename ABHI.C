@@ -24,6 +24,7 @@ void main()
 	       //	printf("Enter Admission Number-");
 	       //	scanf("%c",&student[i].adno);
 		printf("Enter batch number-");
+		// uddeshya19
 		scanf("%d",&student[i].batch);
 		printf("Enter marks\n");
 		for(j=0;j<6;j++)
